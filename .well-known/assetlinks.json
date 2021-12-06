@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yarche.app.debug",
+    "sha256_cert_fingerprints":
+    ["AF:47:64:2D:9C:75:32:A9:92:40:32:B7:0C:E6:89:B5:8D:AB:D7:40:7E:2F:95:FE:15:82:E6:8A:19:68:1C:C4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://2f9f-92-126-232-142.ngrok.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yarche.app.debug",
+    "sha256_cert_fingerprints":
+    ["AF:47:64:2D:9C:75:32:A9:92:40:32:B7:0C:E6:89:B5:8D:AB:D7:40:7E:2F:95:FE:15:82:E6:8A:19:68:1C:C4"]
+  }
+}]
