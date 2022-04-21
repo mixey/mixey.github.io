@@ -1,0 +1,121 @@
+﻿#EXTM3U url-tvg="http://tscrimea.ru/TV_Pack.gz"
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000004.png" tvg-id="000000004" tvg-shift="0",Первый канал
+http://77.121.32.12:80/1_Rossia/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000095.png" tvg-id="000000095" tvg-shift="0",Россия 1
+http://77.121.32.12:80/Rossia_1/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001690.png" tvg-id="000001690" tvg-shift="0",Матч ТВ
+http://77.121.32.12:80/Match_TV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000002.png" tvg-id="000000002" tvg-shift="0",НТВ
+http://77.121.32.12:80/NTV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000089.png" tvg-id="000000089" tvg-shift="0",Пятый канал
+http://77.121.32.12:80/5_Channel_SPB/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000066.png" tvg-id="000000066" tvg-shift="0",Россия К
+http://77.121.32.12:80/Rossia_K/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000198.png" tvg-id="000000198" tvg-shift="0",Россия 24
+http://77.121.32.12:80/Rossia_24/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000157.png" tvg-id="000000157" tvg-shift="0",Карусель
+http://77.121.32.12:80/Karusel/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000636.png" tvg-id="000000636" tvg-shift="0",ОТР
+http://77.121.32.12:80/OTR/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000111.jpg" tvg-id="000000111" tvg-shift="0",ТВЦ
+http://77.121.32.12:80/TVC/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000092.png" tvg-id="000000092" tvg-shift="0",РЕН ТВ
+http://77.121.32.12:80/Ren_TV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000247.png" tvg-id="000000247" tvg-shift="0",Спас
+http://77.121.32.12:80/Spas/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000107.png" tvg-id="000000107" tvg-shift="0",СТС
+http://77.121.32.12:80/STS/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000051.png" tvg-id="000000051" tvg-shift="0",Домашний
+http://77.121.32.12:80/Domachii/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000108.png" tvg-id="000000108" tvg-shift="0",ТВ3
+http://77.121.32.12:80/TV3/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000032.png" tvg-id="000000032" tvg-shift="0",Пятница!
+http://77.121.32.12:80/Piatnica/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000056.png" tvg-id="000000056" tvg-shift="0",Звезда
+http://77.121.32.12:80/Zvezda/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000071.png" tvg-id="000000071" tvg-shift="0",Мир
+http://77.121.32.12:80/Mir/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000121.png" tvg-id="000000121" tvg-shift="0",ТНТ
+http://77.121.32.12:80/TNT/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000073.png" tvg-id="000000073" tvg-shift="0",Муз ТВ
+http://77.121.32.12:80/MUZ_TV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000002444.png" tvg-id="000002444" tvg-shift="0",СТВ
+http://77.121.32.12:80/STV_FHD_IP/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000004098.png" tvg-id="000004098" tvg-shift="0",СТВ 24
+http://77.121.32.12:80/STV24_FHD_IP/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001229.png" tvg-id="000001229" tvg-shift="0",Shop and Show
+http://77.121.32.12:80/Shop_and_Show/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000002440.png" tvg-id="000002440" tvg-shift="0",Первый Севастопольский
+http://77.121.32.12:80/1Sev_IP/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001447.png" tvg-id="000001447" tvg-shift="0",Ювелирочка
+http://77.121.32.12:80/Uvelirochka/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000109.png" tvg-id="000000109" tvg-shift="0",Жара
+http://77.121.32.12:80/Gara_TV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000223.png" tvg-id="000000223" tvg-shift="0",Shopping  Live
+http://77.121.32.12:80/Shopping_Live/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000325.png" tvg-id="000000325" tvg-shift="0",Русский роман
+http://77.121.32.12:80/Rus_roman/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000902.png" tvg-id="000000902" tvg-shift="0",НТС
+http://77.121.32.12:80/NTS/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001207.png" tvg-id="000001207" tvg-shift="0",Мульт
+http://77.121.32.12:80/Mult/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000005302.png" tvg-id="000005302" tvg-shift="0",JWL
+http://77.121.32.12:80/JWL/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000137.png" tvg-id="000000137" tvg-shift="0",Disney
+http://77.121.32.12:80/Disney/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000203.png" tvg-id="000000203" tvg-shift="0",Мультиландия
+http://77.121.32.12:80/Multilandia/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000002762.png" tvg-id="000002762" tvg-shift="0",В гостях у сказки
+http://77.121.32.12:80/V_gostiah_u_skaski/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000003153.png" tvg-id="000003153" tvg-shift="0",Витрина ТВ
+http://77.121.32.12:80/Vitrina/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000004534.png" tvg-id="000004534" tvg-shift="0",Победа
+http://77.121.32.12:80/Pobeda/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000481.png" tvg-id="000000481" tvg-shift="0",Русский бестселлер
+http://77.121.32.12:80/Rus_bestseler/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000003591.png" tvg-id="000003591" tvg-shift="0",Суббота!
+http://77.121.32.12:80/Subbota!/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000003703.png" tvg-id="000003703" tvg-shift="0",Тномер
+http://77.121.32.12:80/Thomer/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000050.png" tvg-id="000000050" tvg-shift="0",Дом кино
+http://77.121.32.12:80/Dom_kino/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001575.png" tvg-id="000001575" tvg-shift="0",Комедия
+http://77.121.32.12:80/Komedia/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000054.png" tvg-id="000000054" tvg-shift="0",Че
+http://77.121.32.12:80/Che/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000007.png" tvg-id="000000007" tvg-shift="0",Доктор
+http://77.121.32.12:80/Doctor/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000006237.png" tvg-id="000006237" tvg-shift="0",TorreRicca
+http://tv.tscrimea.ru:80/TorreRicca/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000255.jpg" tvg-id="000000255" tvg-shift="0",Союз
+http://77.121.32.12:80/Souz/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000230.png" tvg-id="000000230" tvg-shift="0",Наука
+http://77.121.32.12:80/Nauka/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000635.png" tvg-id="000000635" tvg-shift="0",История
+http://77.121.32.12:80/Istoria/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000007064.png" tvg-id="000007064" tvg-shift="0",Легендарный 24
+http://77.121.32.12:80/Legendarn24SD_IP/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000308.png" tvg-id="000000308" tvg-shift="0",Оружие
+http://77.121.32.12:80/Orugie/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000206.png" tvg-id="000000206" tvg-shift="0",Телекафе
+http://77.121.32.12:80/Telecafe/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000101.jpg" tvg-id="000000101" tvg-shift="0",RU TV
+http://77.121.32.12:80/RU_TV/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000432.png" tvg-id="000000432" tvg-shift="0",Телеканал Ю
+http://77.121.32.12:80/U/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000210.png" tvg-id="000000210" tvg-shift="0",Шансон
+http://77.121.32.12:80/Chanson/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001699.png" tvg-id="000001699" tvg-shift="0",Матч! Арена
+http://77.121.32.12:80/Arena/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001828.png" tvg-id="000001828" tvg-shift="0",Крым 24
+http://77.121.32.12:80/Crimea_24/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001390.png" tvg-id="000001390" tvg-shift="0",Живая планета
+http://77.121.32.12:80/Jivaia_planeta/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000000070.jpg" tvg-id="000000070" tvg-shift="0",Мама
+http://77.121.32.12:80/Mama/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-shift="0",infochannel
+http://77.121.32.12:80/infochannel/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000002570.png" tvg-id="000002570" tvg-shift="0",Миллет
+http://77.121.32.12:80/Millet/index.m3u8
+#EXTINF:-1 catchup="fs" tvg-logo="http://epgservice.ru/upload/logo/000001055.png" tvg-id="000001055" tvg-shift="0",Первый Крымский
+http://77.121.32.12:80/1_Crimea/index.m3u8
